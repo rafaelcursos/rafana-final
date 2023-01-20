@@ -15,6 +15,3 @@ function trocacorBase(img, nomeCor, vitrineId) {
     window.location.href = `/site/tampos/${vitrineId}`;
 }
 
-if (imgBase) {
-    imgBaseArea.setAttribute('src', imgBase);
-}
